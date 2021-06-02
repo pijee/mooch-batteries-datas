@@ -1,0 +1,2062 @@
+{
+    "18650": {
+        "BAK": {
+            "N18650CNP": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "21/03/19",
+                "dnb": false
+            }
+        },
+        "LG": {
+            "HG20": {
+                "mah": {
+                    "rated": 2000,
+                    "tested": 2000
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 25
+                },
+                "tested": "19/05/05",
+                "dnb": true
+            },
+            "HG26": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": 2600
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 20
+                },
+                "tested": "19/05/06",
+                "dnb": true
+            },
+            "HB2 (green)": {
+                "mah": {
+                    "rated": 1500,
+                    "tested": 1500
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "16/03/20",
+                "dnb": false
+            },
+            "HB4 (brown)": {
+                "mah": {
+                    "rated": 1500,
+                    "tested": 1500
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "15/11/24",
+                "dnb": false
+            },
+            "HB4 (mustard)": {
+                "mah": {
+                    "rated": 1500,
+                    "tested": 1500
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "16/04/02",
+                "dnb": false
+            },
+            "HB6 (ivory)": {
+                "mah": {
+                    "rated": 1500,
+                    "tested": 1500
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "15/11/23",
+                "dnb": false
+            },
+            "HB6 (pink)": {
+                "mah": {
+                    "rated": 1500,
+                    "tested": 1500
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "16/04/02",
+                "dnb": false
+            },
+            "HB7": {
+                "mah": {
+                    "rated": 1500,
+                    "tested": 1500
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "tested": "16/10/21",
+                "dnb": false
+            },
+            "HD2": {
+                "mah": {
+                    "rated": 2000,
+                    "tested": 2000
+                },
+                "cdr": {
+                    "rated": 25,
+                    "estimated": 25
+                },
+                "tested": "16/03/19",
+                "dnb": false
+            },
+            "HD2C": {
+                "mah": {
+                    "rated": 2100,
+                    "tested": 2100
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "16/03/30",
+                "dnb": false
+            },
+            "HD4 (salmon)": {
+                "mah": {
+                    "rated": 2100,
+                    "tested": 2100
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 25
+                },
+                "tested": "16/04/28",
+                "dnb": false
+            },
+            "HE2": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "15/12/05",
+                "dnb": false
+            },
+            "HE4": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "16/03/06",
+                "dnb": false
+            },
+            "HG2 (brown)": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "18/01/09",
+                "dnb": false
+            },
+            "HG2 (brown with QR Code)": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 17
+                },
+                "tested": "19/01/05",
+                "dnb": false
+            },
+            "HG2 (blue)": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 2900
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 17
+                },
+                "tested": "19/09/20",
+                "dnb": false
+            },
+            "MH1": {
+                "mah": {
+                    "rated": 3200,
+                    "tested": 3200
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 10
+                },
+                "tested": "15/07/11",
+                "dnb": false
+            },
+            "MJ1": {
+                "mah": {
+                    "rated": 3500,
+                    "tested": 3500
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 10
+                },
+                "tested": "16/11/13",
+                "dnb": false
+            }
+        },
+        "Molicel": {
+            "P26A": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": 2600
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 25
+                },
+                "tested": "19/03/08",
+                "dnb": false
+            },
+            "P28A": {
+                "mah": {
+                    "rated": 2800,
+                    "tested": 2700
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 25
+                },
+                "tested": "19/04/26",
+                "dnb": false
+            },
+            "M35A": {
+                "mah": {
+                    "rated": 3450,
+                    "tested": 3450
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 10
+                },
+                "tested": "21/03/14",
+                "dnb": false
+            }
+        },
+        "Murata": {
+            "VTC4": {
+                "mah": {
+                    "rated": 2100,
+                    "tested": 2100
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 23
+                },
+                "tested": "18/07/29",
+                "dnb": false
+            },
+            "VTC5": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": 2600
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 20
+                },
+                "tested": "18/08/03",
+                "dnb": false
+            },
+            "VTC5A": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 25
+                },
+                "tested": "19/01/04",
+                "dnb": false
+            }
+        },
+        "Panasonic": {
+            "NCR18650A": {
+                "mah": {
+                    "rated": 3100,
+                    "tested": 3100
+                },
+                "cdr": {
+                    "rated": 5.9,
+                    "estimated": 5.9
+                },
+                "tested": null,
+                "dnb": false
+            },
+            "NCR18650B": {
+                "mah": {
+                    "rated": 3200,
+                    "tested": 3200
+                },
+                "cdr": {
+                    "rated": 4.9,
+                    "estimated": 4.9
+                },
+                "tested": "16/11/09",
+                "dnb": false
+            },
+            "NCR18650BD": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 10
+                },
+                "tested": "16/11/13",
+                "dnb": false
+            },
+            "CGR18650CH": {
+                "mah": {
+                    "rated": 2250,
+                    "tested": 2250
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 10
+                },
+                "tested": "15/08/06",
+                "dnb": false
+            },
+            "NCR18650GA": {
+                "mah": {
+                    "rated": 3300,
+                    "tested": 3300
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 10
+                },
+                "tested": "16/11/14",
+                "dnb": false
+            },
+            "NCR18650PF": {
+                "mah": {
+                    "rated": 2680,
+                    "tested": 2680
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 10
+                },
+                "tested": "16/11/12",
+                "dnb": false
+            }
+        },
+        "Samsung": {
+            "15L": {
+                "mah": {
+                    "rated": 1500,
+                    "tested": 1500
+                },
+                "cdr": {
+                    "rated": 18,
+                    "estimated": 18
+                },
+                "tested": "17/06/23",
+                "dnb": false
+            },
+            "15M": {
+                "mah": {
+                    "rated": 1500,
+                    "tested": 1500
+                },
+                "cdr": {
+                    "rated": 23,
+                    "estimated": 23
+                },
+                "tested": "17/07/22",
+                "dnb": false
+            },
+            "20Q": {
+                "mah": {
+                    "rated": 2000,
+                    "tested": 2000
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "tested": "18/05/27",
+                "dnb": false
+            },
+            "20R": {
+                "mah": {
+                    "rated": 2000,
+                    "tested": 2000
+                },
+                "cdr": {
+                    "rated": 22,
+                    "estimated": 22
+                },
+                "tested": "16/02/13",
+                "dnb": false
+            },
+            "20S": {
+                "mah": {
+                    "rated": 2000,
+                    "tested": 2000
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 30
+                },
+                "tested": "18/05/21",
+                "dnb": false
+            },
+            "22P(M)": {
+                "mah": {
+                    "rated": 2050,
+                    "tested": 2050
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 10
+                },
+                "tested": "17/08/22",
+                "dnb": false
+            },
+            "24S": {
+                "mah": {
+                    "rated": 2400,
+                    "tested": 2400
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 25
+                },
+                "tested": "18/05/22",
+                "dnb": false
+            },
+            "25R Blue (25R2)": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "15/06/21",
+                "dnb": false
+            },
+            "25R Green (25R5)": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "15/10/11",
+                "dnb": false
+            },
+            "25R Green (25R6M)": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "17/03/24",
+                "dnb": false
+            },
+            "25R Green (25R8)": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "21/03/31",
+                "dnb": false
+            },
+            "25S": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 25,
+                    "estimated": 25
+                },
+                "tested": "18/06/17",
+                "dnb": false
+            },
+            "26F": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": 2600
+                },
+                "cdr": {
+                    "rated": 5.2,
+                    "estimated": 5.2
+                },
+                "tested": "18/06/17",
+                "dnb": false
+            },
+            "30Q": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "tested": "18/01/15",
+                "dnb": false
+            },
+            "35E": {
+                "mah": {
+                    "rated": 3500,
+                    "tested": 3500
+                },
+                "cdr": {
+                    "rated": 8,
+                    "estimated": 8
+                },
+                "tested": "16/11/07",
+                "dnb": false
+            }
+        },
+        "Sanyo": {
+            "UR18650NSX": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "16/03/24",
+                "dnb": false
+            }
+        },
+        "Sony": {
+            "VC7": {
+                "mah": {
+                    "rated": 3500,
+                    "tested": 3500
+                },
+                "cdr": {
+                    "rated": 8,
+                    "estimated": 8
+                },
+                "tested": "18/05/20",
+                "dnb": false
+            },
+            "VT4": {
+                "mah": {
+                    "rated": 2000,
+                    "tested": 2000
+                },
+                "cdr": {
+                    "rated": 22,
+                    "estimated": 20
+                },
+                "tested": "18/07/17",
+                "dnb": false
+            },
+            "VTC3": {
+                "mah": {
+                    "rated": 1500,
+                    "tested": 1500
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 28
+                },
+                "tested": "16/03/13",
+                "dnb": false
+            },
+            "VTC4": {
+                "mah": {
+                    "rated": 2100,
+                    "tested": 2100
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 23
+                },
+                "tested": "16/03/15",
+                "dnb": false
+            },
+            "VTC5": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": 2600
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "16/03/16",
+                "dnb": false
+            },
+            "VTC5A": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 25
+                },
+                "tested": "16/06/04",
+                "dnb": false
+            },
+            "VTC5D": {
+                "mah": {
+                    "rated": null,
+                    "tested": 2700
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 25
+                },
+                "tested": "18/04/07",
+                "dnb": false
+            },
+            "VTC6": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "tested": "18/01/14",
+                "dnb": false
+            },
+            "VTC6A (pre-production samples)": {
+                "mah": {
+                    "rated": null,
+                    "tested": 2900
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 20
+                },
+                "tested": "18/01/31",
+                "dnb": false
+            }
+        },
+        "Ampking": {
+            "2600": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": 2600
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 25
+                },
+                "tested": "18/09/30",
+                "dnb": false
+            }
+        },
+        "Aspire": {
+            "3000": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 2900
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 20
+                },
+                "tested": "18/07/20",
+                "dnb": false
+            }
+        },
+        "AWT": {
+            "3300": {
+                "mah": {
+                    "rated": 3300,
+                    "tested": 3300
+                },
+                "cdr": {
+                    "rated": 40,
+                    "estimated": null
+                },
+                "tested": "18/11/20",
+                "dnb": true
+            }
+        },
+        "Basen": {
+            "Gold": {
+                "mah": {
+                    "rated": 2400,
+                    "tested": 2000
+                },
+                "cdr": {
+                    "rated": 25,
+                    "estimated": null
+                },
+                "tested": "19/11/03",
+                "dnb": true
+            }
+        },
+        "Efest": {
+            "Purple": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 2800
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "20/08/18",
+                "dnb": false
+            }
+        },
+        "Eizfan": {
+            "Purple-Black": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 40,
+                    "estimated": 20
+                },
+                "tested": "18/11/30",
+                "dnb": false
+            }
+        },
+        "Epoch": {
+            "3000": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "tested": "21/03/15",
+                "dnb": false
+            },
+            "protected": {
+                "mah": {
+                    "rated": 3500,
+                    "tested": 3400
+                },
+                "cdr": {
+                    "rated": 8,
+                    "estimated": 8
+                },
+                "tested": "21/05/12",
+                "dnb": false
+            }
+        },
+        "Golisi Black": {
+            "S26": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": 2550
+                },
+                "cdr": {
+                    "rated": 25,
+                    "estimated": 25
+                },
+                "tested": "18/07/09",
+                "dnb": false
+            },
+            "S30": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 2800
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 22
+                },
+                "tested": "18/12/30",
+                "dnb": false
+            }
+        },
+        "Hohm Tech Hohm": {
+            "Life 60W": {
+                "mah": {
+                    "rated": 3077,
+                    "tested": 3077
+                },
+                "cdr": {
+                    "rated": 20.7,
+                    "estimated": 20.7
+                },
+                "tested": "19/11/14",
+                "dnb": false
+            },
+            "Stretch 2": {
+                "mah": {
+                    "rated": 2944,
+                    "tested": 2944
+                },
+                "cdr": {
+                    "rated": 22.1,
+                    "estimated": 22.1
+                },
+                "tested": "19/11/16",
+                "dnb": false
+            },
+            "Work 2": {
+                "mah": {
+                    "rated": 2547,
+                    "tested": 2547
+                },
+                "cdr": {
+                    "rated": 25.3,
+                    "estimated": 25.3
+                },
+                "tested": "19/11/06",
+                "dnb": false
+            },
+            "Alone": {
+                "mah": {
+                    "rated": 3309,
+                    "tested": 3309
+                },
+                "cdr": {
+                    "rated": 15.3,
+                    "estimated": 15.3
+                },
+                "tested": "21/04/25",
+                "dnb": false
+            }
+        },
+        "Imren Gold": {
+            "3000/15A": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "tested": "18/07/01",
+                "dnb": false
+            },
+            "3000/20A": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 2900
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "18/07/03",
+                "dnb": false
+            },
+            "3500/15A": {
+                "mah": {
+                    "rated": 3500,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 10
+                },
+                "tested": "20/06/28",
+                "dnb": true
+            },
+            "3500/30A": {
+                "mah": {
+                    "rated": 3500,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 10
+                },
+                "tested": "20/06/28",
+                "dnb": true
+            }
+        },
+        "Juiced": {
+            "3000": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 15
+                },
+                "tested": "18/08/19",
+                "dnb": false
+            }
+        },
+        "Kdest": {
+            "Orange (K6W)": {
+                "mah": {
+                    "rated": 2400,
+                    "tested": 2400
+                },
+                "cdr": {
+                    "rated": 25,
+                    "estimated": 20
+                },
+                "tested": "19/11/28",
+                "dnb": false
+            }
+        },
+        "Klejjs": {
+            "2600": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": 2600
+                },
+                "cdr": {
+                    "rated": 25,
+                    "estimated": 25
+                },
+                "tested": "20/01/17",
+                "dnb": false
+            }
+        },
+        "Lithicore": {
+            "2500": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": null
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": null
+                },
+                "tested": "19/04/25",
+                "dnb": true
+            },
+            "3000": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": null
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": null
+                },
+                "tested": "19/04/20",
+                "dnb": true
+            },
+            "3500": {
+                "mah": {
+                    "rated": 3500,
+                    "tested": null
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": null
+                },
+                "tested": "19/04/21",
+                "dnb": true
+            }
+        },
+        "Orbtronic": {
+            "ORB-3120": {
+                "mah": {
+                    "rated": 3120,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 15
+                },
+                "tested": "20/03/25",
+                "dnb": false
+            }
+        },
+        "QSO": {
+            "White 25A": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 25,
+                    "estimated": null
+                },
+                "tested": "19/07/08",
+                "dnb": true
+            },
+            "White 40A": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 40,
+                    "estimated": null
+                },
+                "tested": "19/07/08",
+                "dnb": true
+            },
+            "Black 3200/10A": {
+                "mah": {
+                    "rated": 3200,
+                    "tested": 3100
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": null
+                },
+                "tested": "19/07/10",
+                "dnb": true
+            },
+            "Black 3200/30A": {
+                "mah": {
+                    "rated": 3200,
+                    "tested": 3100
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": null
+                },
+                "tested": "19/07/10",
+                "dnb": true
+            },
+            "Black 3500/12A": {
+                "mah": {
+                    "rated": 3500,
+                    "tested": 3400
+                },
+                "cdr": {
+                    "rated": 12,
+                    "estimated": null
+                },
+                "tested": "19/07/11",
+                "dnb": true
+            },
+            "Black 3500/30A": {
+                "mah": {
+                    "rated": 3500,
+                    "tested": 3400
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": null
+                },
+                "tested": "19/07/11",
+                "dnb": true
+            }
+        },
+        "Lithium Werks": {
+            "LiFePO4": {
+                "mah": {
+                    "rated": 1100,
+                    "tested": 1100
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "19/11/12",
+                "dnb": false
+            }
+        },
+        "Radio Shack": {
+            "2500": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "18/09/15",
+                "dnb": false
+            },
+            "3000": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "tested": "18/10/13",
+                "dnb": false
+            }
+        },
+        "Vapcell": {
+            "Green 2000": {
+                "mah": {
+                    "rated": 2000,
+                    "tested": 2000
+                },
+                "cdr": {
+                    "rated": 28,
+                    "estimated": 28
+                },
+                "tested": "18/10/21",
+                "dnb": false
+            },
+            "K25 Red": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "20/04/20",
+                "dnb": false
+            },
+            "R25 Green": {
+                "mah": {
+                    "rated": 2500,
+                    "tested": 2500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "20/12/15",
+                "dnb": false
+            },
+            "Green 2600": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": 2600
+                },
+                "cdr": {
+                    "rated": 25,
+                    "estimated": 25
+                },
+                "tested": "18/09/24",
+                "dnb": false
+            },
+            "K28 Blue": {
+                "mah": {
+                    "rated": 2800,
+                    "tested": 2700
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "20/10/21",
+                "dnb": false
+            },
+            "G30 Green": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "tested": "20/10/25",
+                "dnb": false
+            },
+            "K30 Yellow": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 2900
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "tested": "20/04/21",
+                "dnb": false
+            },
+            "S30 Red": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 2900
+                },
+                "cdr": {
+                    "rated": 25,
+                    "estimated": 20
+                },
+                "tested": "20/09/26",
+                "dnb": false
+            },
+            "Purple V2.0": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "21/02/27",
+                "dnb": false
+            },
+            "P1830A": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "tested": "20/10/23",
+                "dnb": false
+            },
+            "P1835A": {
+                "mah": {
+                    "rated": 3500,
+                    "tested": 3400
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 10
+                },
+                "tested": "20/06/28",
+                "dnb": false
+            },
+            "F35 Green": {
+                "mah": {
+                    "rated": 3500,
+                    "tested": 3400
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "tested": "20/10/25",
+                "dnb": false
+            }
+        },
+        "Xtar": {
+            "F35 Green": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": 2600
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 25
+                },
+                "tested": "19/08/01",
+                "dnb": false
+            }
+        }
+    },
+    "20650": {
+        "LG": {
+            "HG6": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 2800
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "17/10/23",
+                "dnb": false
+            }
+        },
+        "Sanyo": {
+            "NCR20650A": {
+                "mah": {
+                    "rated": 2900,
+                    "tested": 2900
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 30
+                },
+                "tested": "17/08/27",
+                "dnb": false
+            }
+        }
+    },
+    "20700": {
+        "Molicel": {
+            "INR20770A": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 35
+                },
+                "tested": "18/10/02",
+                "dnb": false
+            },
+            "INR20770A-M42A": {
+                "mah": {
+                    "rated": 4000,
+                    "tested": 4000
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "18/10/25",
+                "dnb": false
+            }
+        },
+        "Sanyo": {
+            "NCR20700A": {
+                "mah": {
+                    "rated": 3100,
+                    "tested": 3100
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "17/01/17",
+                "dnb": false
+            },
+            "NCR20700B": {
+                "mah": {
+                    "rated": 4000,
+                    "tested": 4000
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "tested": "16/11/23",
+                "dnb": false
+            },
+            "NCR2070C": {
+                "mah": {
+                    "rated": 3500,
+                    "tested": 3500
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "19/03/13",
+                "dnb": false
+            }
+        },
+        "Golisi": {
+            "S32": {
+                "mah": {
+                    "rated": 3200,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 25
+                },
+                "tested": "18/08/22",
+                "dnb": false
+            }
+        },
+        "IJoy": {
+            "5leg top contact with tabs": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 40,
+                    "estimated": 20
+                },
+                "tested": "18/08/20",
+                "dnb": false
+            }
+        },
+        "QSO": {
+            "Orange": {
+                "mah": {
+                    "rated": 3100,
+                    "tested": 3100
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 25
+                },
+                "tested": "18/08/21",
+                "dnb": false
+            }
+        },
+        "Vapcell": {
+            "Gold (white printing)": {
+                "mah": {
+                    "rated": 3100,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 25
+                },
+                "tested": "18/08/10",
+                "dnb": false
+            }
+        },
+        "VRK": {
+            "3000": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": null
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": null
+                },
+                "tested": "18/08/17",
+                "dnb": false
+            }
+        },
+        "Xtar": {
+            "3000": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 2900
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 30
+                },
+                "tested": "19/08/01",
+                "dnb": false
+            }
+        }
+    },
+    "21700": {
+        "EnerCig": {
+            "EC-2174HC": {
+                "mah": {
+                    "rated": 4000,
+                    "tested": 4000
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "19/01/17",
+                "dnb": false
+            }
+        },
+        "Lishen": {
+            "LR2170SF": {
+                "mah": {
+                    "rated": 4500,
+                    "tested": 4500
+                },
+                "cdr": {
+                    "rated": 13.5,
+                    "estimated": 13.5
+                },
+                "tested": "19/02/20",
+                "dnb": false
+            }
+        },
+        "Murata": {
+            "VTC6A": {
+                "mah": {
+                    "rated": 4000,
+                    "tested": 4000
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 30
+                },
+                "tested": "19/10/01",
+                "dnb": false
+            }
+        },
+        "Molicel": {
+            "INR-21700-P42A": {
+                "mah": {
+                    "rated": 4000,
+                    "tested": 4000
+                },
+                "cdr": {
+                    "rated": 45,
+                    "estimated": 30
+                },
+                "tested": "19/02/08",
+                "dnb": false
+            }
+        },
+        "Samsung": {
+            "30T": {
+                "mah": {
+                    "rated": 2950,
+                    "tested": 3100
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 35
+                },
+                "tested": "18/05/18",
+                "dnb": false
+            },
+            "33J": {
+                "mah": {
+                    "rated": 3270,
+                    "tested": null
+                },
+                "cdr": {
+                    "rated": 3.2,
+                    "estimated": null
+                },
+                "tested": null,
+                "dnb": true
+            },
+            "40T1 (N40T code on the scan)": {
+                "mah": {
+                    "rated": 4000,
+                    "tested": 4000
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 25
+                },
+                "tested": "19/01/18",
+                "dnb": false
+            },
+            "40T1 (production cells)": {
+                "mah": {
+                    "rated": 4000,
+                    "tested": 4000
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 30
+                },
+                "tested": "19/01/16",
+                "dnb": false
+            },
+            "40T3 (N40T code on the scan)": {
+                "mah": {
+                    "rated": 4000,
+                    "tested": 4000
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 30
+                },
+                "tested": "21/03/17",
+                "dnb": false
+            },
+            "48G": {
+                "mah": {
+                    "rated": 4800,
+                    "tested": 4800
+                },
+                "cdr": {
+                    "rated": 9.6,
+                    "estimated": 10
+                },
+                "tested": "17/09/01",
+                "dnb": false
+            },
+            "SOE2": {
+                "mah": {
+                    "rated": 4900,
+                    "tested": 4900
+                },
+                "cdr": {
+                    "rated": 9.8,
+                    "estimated": 9.8
+                },
+                "tested": "18/11/18",
+                "dnb": false
+            }
+        },
+        "SONY": {
+            "SOE2": {
+                "mah": {
+                    "rated": null,
+                    "tested": 4000
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 30
+                },
+                "tested": "18/08/05",
+                "dnb": false
+            }
+        },
+        "Aspire": {
+            "4000": {
+                "mah": {
+                    "rated": 4000,
+                    "tested": 3800
+                },
+                "cdr": {
+                    "rated": 40,
+                    "estimated": 25
+                },
+                "tested": "18/07/20",
+                "dnb": false
+            }
+        },
+        "AWT": {
+            "4800": {
+                "mah": {
+                    "rated": 4800,
+                    "tested": 4800
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": null
+                },
+                "tested": "18/11/23",
+                "dnb": true
+            }
+        },
+        "Efest": {
+            "5000": {
+                "mah": {
+                    "rated": 5000,
+                    "tested": 4900
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 7.3
+                },
+                "tested": "18/07/22",
+                "dnb": false
+            }
+        },
+        "Eizfan": {
+            "Blue-Black": {
+                "mah": {
+                    "rated": 3750,
+                    "tested": 3750
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 25
+                },
+                "tested": "18/11/27",
+                "dnb": false
+            },
+            "Purple-Black": {
+                "mah": {
+                    "rated": 5000,
+                    "tested": 5000
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 10
+                },
+                "tested": "18/11/12",
+                "dnb": false
+            }
+        },
+        "Epoch": {
+            "5000": {
+                "mah": {
+                    "rated": 5000,
+                    "tested": 4800
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 10
+                },
+                "tested": "20/10/07",
+                "dnb": false
+            }
+        },
+        "Golisi": {
+            "Black S35": {
+                "mah": {
+                    "rated": 3750,
+                    "tested": 3750
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": null
+                },
+                "tested": "18/12/19",
+                "dnb": true
+            }
+        },
+        "Hercules": {
+            "RS40": {
+                "mah": {
+                    "rated": 4000,
+                    "tested": 3500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "21/02/03",
+                "dnb": false
+            }
+        },
+        "Hohm Tech Hohm": {
+            "Run": {
+                "mah": {
+                    "rated": 3023,
+                    "tested": 3023
+                },
+                "cdr": {
+                    "rated": 39.1,
+                    "estimated": 35
+                },
+                "tested": "19/10/04",
+                "dnb": false
+            },
+            "Run XL": {
+                "mah": {
+                    "rated": 4007,
+                    "tested": 3900
+                },
+                "cdr": {
+                    "rated": 30.3,
+                    "estimated": 30
+                },
+                "tested": "19/10/03",
+                "dnb": false
+            }
+        },
+        "Imren": {
+            "Gold": {
+                "mah": {
+                    "rated": 3750,
+                    "tested": 3750
+                },
+                "cdr": {
+                    "rated": 25,
+                    "estimated": 25
+                },
+                "tested": "18/07/06",
+                "dnb": false
+            }
+        },
+        "Lithicore": {
+            "2950": {
+                "mah": {
+                    "rated": 2950,
+                    "tested": null
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": null
+                },
+                "tested": "19/07/20",
+                "dnb": true
+            },
+            "3700": {
+                "mah": {
+                    "rated": 3700,
+                    "tested": null
+                },
+                "cdr": {
+                    "rated": 25,
+                    "estimated": null
+                },
+                "tested": "19/07/20",
+                "dnb": true
+            }
+        },
+        "Tesla": {
+            "Model 3": {
+                "mah": {
+                    "rated": null,
+                    "tested": 4800
+                },
+                "cdr": {
+                    "rated": null,
+                    "estimated": 10
+                },
+                "tested": "21/02/27",
+                "dnb": false
+            }
+        },
+        "Vapcell": {
+            "Red T20": {
+                "mah": {
+                    "rated": 2000,
+                    "tested": 2000
+                },
+                "cdr": {
+                    "rated": 40,
+                    "estimated": 40
+                },
+                "tested": "21/02/27",
+                "dnb": false
+            },
+            "Purple T30": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 3000
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 35
+                },
+                "tested": "21/04/25",
+                "dnb": false
+            },
+            "Blue 3000": {
+                "mah": {
+                    "rated": 3000,
+                    "tested": 2900
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 30
+                },
+                "tested": "18/08/13",
+                "dnb": false
+            },
+            "Blue 3750": {
+                "mah": {
+                    "rated": 3750,
+                    "tested": 3750
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "19/01/06",
+                "dnb": false
+            },
+            "Black with QR Code": {
+                "mah": {
+                    "rated": 4000,
+                    "tested": 4000
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "18/08/07",
+                "dnb": false
+            },
+            "Black without QR Code": {
+                "mah": {
+                    "rated": 4000,
+                    "tested": 3900
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "18/08/08",
+                "dnb": false
+            },
+            "Red": {
+                "mah": {
+                    "rated": 4500,
+                    "tested": 4500
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": null
+                },
+                "tested": "19/02/20",
+                "dnb": false
+            },
+            "Blue": {
+                "mah": {
+                    "rated": 5000,
+                    "tested": 4900
+                },
+                "cdr": {
+                    "rated": 12,
+                    "estimated": 12
+                },
+                "tested": "19/12/26",
+                "dnb": false
+            },
+            "Gold G50": {
+                "mah": {
+                    "rated": 5000,
+                    "tested": 4900
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 9.8
+                },
+                "tested": "20/04/17",
+                "dnb": false
+            }
+        },
+        "Xtar": {
+            "4200": {
+                "mah": {
+                    "rated": 4200,
+                    "tested": 4000
+                },
+                "cdr": {
+                    "rated": 45,
+                    "estimated": 30
+                },
+                "tested": "19/08/05",
+                "dnb": false
+            }
+        }
+    },
+    "26650": {
+        "Aspire":  {
+            "4300": {
+                "mah": {
+                    "rated": 4300,
+                    "tested": 4100
+                },
+                "cdr": {
+                    "rated": 20,
+                    "estimated": 20
+                },
+                "tested": "19/12/18",
+                "dnb": false
+            }
+        },
+        "Efest":  {
+            "4200": {
+                "mah": {
+                    "rated": 4200,
+                    "tested": 4200
+                },
+                "cdr": {
+                    "rated": 35,
+                    "estimated": 20
+                },
+                "tested": "19/12/19",
+                "dnb": false
+            }
+        },
+        "Golisi":  {
+            "4300": {
+                "mah": {
+                    "rated": 4300,
+                    "tested": 4200
+                },
+                "cdr": {
+                    "rated": 30,
+                    "estimated": 30
+                },
+                "tested": "19/12/17",
+                "dnb": false
+            }
+        },
+        "Lithicore": {
+            "4250": {
+                "mah": {
+                    "rated": 4250,
+                    "tested": null
+                },
+                "cdr": {
+                    "rated": 25,
+                    "estimated": null
+                },
+                "tested": "19/07/20",
+                "dnb": true
+            }
+        },
+        "Vapcell": {
+            "IFR26650 LiFePO4": {
+                "mah": {
+                    "rated": 2600,
+                    "tested": null
+                },
+                "cdr": {
+                    "rated": 55,
+                    "estimated": null
+                },
+                "tested": "19/11/22",
+                "dnb": true
+            },
+            "4200": {
+                "mah": {
+                    "rated": 4200,
+                    "tested": 4200
+                },
+                "cdr": {
+                    "rated": 32,
+                    "estimated": 30
+                },
+                "tested": "19/12/22",
+                "dnb": false
+            }
+        },
+        "YDL": {
+            "4200": {
+                "mah": {
+                    "rated": 4200,
+                    "tested": 4200
+                },
+                "cdr": {
+                    "rated": 40,
+                    "estimated": 30
+                },
+                "tested": "19/12/14",
+                "dnb": false
+            }
+        }
+    },
+    "26800": {
+        "Queen Battery": {
+            "QB26800": {
+                "mah": {
+                    "rated": 6800,
+                    "tested": 6800
+                },
+                "cdr": {
+                    "rated": 20.4,
+                    "estimated": 20.4
+                },
+                "tested": "20/05/01",
+                "dnb": false
+            }
+        }
+    }
+}
