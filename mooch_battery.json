@@ -1,4 +1,134 @@
 {
+    "14500": {
+        "Vapcell": {
+            "H10": {
+                "mah": {
+                    "rated": 1000,
+                    "tested": 900
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 10
+                },
+                "date": null,
+                "dnb": false
+            }
+        }
+    },
+    "18350": {
+        "Epoch": {
+            "1100": {
+                "mah": {
+                    "rated": 1100,
+                    "tested": 1000
+                },
+                "cdr": {
+                    "rated": 9,
+                    "estimated": 9
+                },
+                "date": null,
+                "dnb": false
+            }
+        },
+        "Hercules": {
+            "RS08": {
+                "mah": {
+                    "rated": 800,
+                    "tested": 800
+                },
+                "cdr": {
+                    "rated": 8,
+                    "estimated": 8
+                },
+                "date": null,
+                "dnb": false
+            }
+        },
+        "Keeppower": {
+            "Blck flat top": {
+                "mah": {
+                    "rated": 1200,
+                    "tested": 1000
+                },
+                "cdr": {
+                    "rated": 10,
+                    "estimated": 9
+                },
+                "date": null,
+                "dnb": false
+            }
+        },
+        "Vapcell": {
+            "1100": {
+                "mah": {
+                    "rated": 1100,
+                    "tested": 1000
+                },
+                "cdr": {
+                    "rated": 9,
+                    "estimated": 9
+                },
+                "date": null,
+                "dnb": false
+            }
+        },
+        "YLD": {
+            "1100": {
+                "mah": {
+                    "rated": 1100,
+                    "tested": 1100
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 10
+                },
+                "date": null,
+                "dnb": false
+            }
+        }
+    },
+    "18500": {
+        "Panasonic": {
+            "NCR18500A": {
+                "mah": {
+                    "rated": 1900,
+                    "tested": 1900
+                },
+                "cdr": {
+                    "rated": 3.8,
+                    "estimated": 3.8
+                },
+                "date": null,
+                "dnb": false
+            }
+        },
+        "Vapcell": {
+            "Red K15": {
+                "mah": {
+                    "rated": 1500,
+                    "tested": 1500
+                },
+                "cdr": {
+                    "rated": 15,
+                    "estimated": 15
+                },
+                "date": null,
+                "dnb": false
+            },
+            "Green": {
+                "mah": {
+                    "rated": 2000,
+                    "tested": 2000
+                },
+                "cdr": {
+                    "rated": 5,
+                    "estimated": 5
+                },
+                "date": null,
+                "dnb": false
+            }
+        }
+    },
     "18650": {
         "BAK": {
             "N18650CNP": {
